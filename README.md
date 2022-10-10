@@ -1,2 +1,1 @@
-- Currently learning;
-- Python, HTML/CSS, JavaScript
+
